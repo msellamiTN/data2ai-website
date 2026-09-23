@@ -1,40 +1,36 @@
-# Data2AI Website
-
-New Data2AI corporate website aligned to the **Enterprise AI Engineering** business architecture.
+# DATA2AI Website
 
 ## Positioning
+**DATA2AI — Independent Enterprise AI Architecture & Engineering**
 
-**Engineer AI for the enterprise.**
+**From Business Problem to Proven AI Solution.**
 
-Build. Integrate. Secure. Operate.
+**Fast Today. Free Tomorrow.**
 
-## Business architecture
+DATA2AI is technology-independent. Cloud, Open Source, sovereign/private infrastructure and hybrid environments are implementation choices made after architecture and requirements discovery.
 
-- Enterprise AI Engineering
-- Productized AI accelerators / Box Packages
-- Business AI Solutions
-- Multi-platform engineering
-- Data2AI Academy
-- Architecture & Insights
-
-## Current products
-
-- Enterprise Agent-in-a-Box
-- Data Analyst Agent-in-a-Box
-- Enterprise RAG-in-a-Box
-- AI Security-in-a-Box
-- AgentOps-in-a-Box
-- AI Platform-in-a-Box
-- Training-in-a-Box (Academy)
+## Lifecycle
+Discover → Architect → Integrate → Demonstrate → Prove → Industrialize
 
 ## Site
+- index.html — corporate home
+- architecture.html — reference architectures
+- independence.html — AI Independence / sovereignty
+- methodology.html — delivery method
+- solutions.html — enterprise scenarios
+- products.html — solution accelerators
+- academy.html — training
 
-This first version is intentionally framework-light and deployable as a static site. It can be hosted on GitHub Pages or migrated to an existing hosting pipeline without introducing a runtime dependency.
+## Signature DATA2AI concepts
+- AI Freedom Architecture™
+- AI Architecture Passport™
+- AI Freedom Index™
+- Sovereignty-by-Design™
+- AI Exit-Ready Architecture™
+- POC-to-Production Seed™
+- DATA2AI SPEED™
 
-## Next product-development phase
+These are proposed DATA2AI methodologies/IP concepts, not established industry standards.
 
-1. Formalize the Data2AI Enterprise AI Reference Architecture.
-2. Build the Enterprise Agent-in-a-Box repository.
-3. Add technology editions: Azure, AWS, GCP and Open Source.
-4. Add industry solution packs.
-5. Connect product documentation, demos and academy labs.
+## Hosting
+Static HTML/CSS/JS; suitable for GitHub Pages and portable hosting.
